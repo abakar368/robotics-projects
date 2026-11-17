@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+robotics_env/
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
